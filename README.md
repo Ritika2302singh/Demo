@@ -1,4 +1,4 @@
 # Demo
 My first git repo
 <br>
-By:-Ritik Singh
+By:-Ritik Singh (Rimjhim)
